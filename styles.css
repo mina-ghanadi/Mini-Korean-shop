@@ -57,3 +57,23 @@ font-size: 20px;
 .slides{
   display: none;
 }
+/*New products*/
+.new-lable{
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 117, 6);
+  width: 40px;
+  border-radius: 50px;
+  margin: 5px;
+  text-align: end;
+  font-size: 10px;
+  padding-right: 10px;
+  position: absolute;
+}
+.card-buttons{
+  height: 37px !important;
+  margin-bottom: 10px;
+}
+.card{
+  padding: 20px 5px 5px 5px;
+
+}
